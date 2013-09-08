@@ -1,0 +1,5 @@
+Ember
+---------
+Vertex based sprite creation tool (Think Blender 2D)
+2D Skeleton rigging
+Auto texture packer
